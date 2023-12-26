@@ -14,6 +14,9 @@ library(baseballr)
 library(dplyr)
 library(ggplot2)
 library(tidyr)
+library(lubridate)
+library(stringr)
+library(janitor)
 
 
 #+ r Exit velocities, echo=FALSE
